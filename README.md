@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="cxg1zjmnr497zeq15ne9zzlausjb6obw.png" width="600">
+   <img src="Other/cxg1zjmnr497zeq15ne9zzlausjb6obw.png" width="600">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Language-Jupyter Notebook-orange">
