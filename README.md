@@ -61,4 +61,6 @@
    Подробное описание задание прикреплено в файле: https://github.com/DenK5/Gazprom_Case_DS/blob/main/About%20Task.pdf
 
    Данные для решения в файле: https://github.com/DenK5/Gazprom_Case_DS/blob/main/data.csv
+
+   Сертификат о прохождении на стажировку с помощью данного кейса: https://github.com/DenK5/Gazprom_Case_DS/blob/main/Certificate%20GPN.pdf 
 </p>
